@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Commenti per Rivoluzione Informatica	</title>
-	<atom:link href="https://www.rivoluzioneinformatica.org/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.rivoluzioneinformatica.org/</link>
+	Commenti a: Ciao mondo!	</title>
+	<atom:link href="https://www.rivoluzioneinformatica.org/ciao-mondo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.rivoluzioneinformatica.org/ciao-mondo/</link>
 	<description>La sicurezza informatica per la tua famiglia e la tua azienda.</description>
-	<lastBuildDate>Wed, 17 Aug 2022 09:46:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Aug 2022 11:50:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
