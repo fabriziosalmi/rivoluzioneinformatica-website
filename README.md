@@ -1,4 +1,4 @@
-# rivoluzioneinformatica-website
+# RivoluzioneInformatica.org website
 https://www.rivoluzioneinformatica.org
 
-master will go published and updated on push actions :P
+wordpress backend -> static frontend -> github pages -> cloudflare
