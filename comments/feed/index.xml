@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Commenti per Rivoluzione Informatica	</title>
-	<atom:link href="https://www.rivoluzioneinformatica.org/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.rivoluzioneinformatica.org/comments/feed/?simply_static_page=776" rel="self" type="application/rss+xml" />
 	<link>https://www.rivoluzioneinformatica.org/</link>
 	<description>La sicurezza informatica per la tua famiglia e la tua azienda.</description>
-	<lastBuildDate>Sat, 10 Dec 2022 12:35:05 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Jan 2023 10:01:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
